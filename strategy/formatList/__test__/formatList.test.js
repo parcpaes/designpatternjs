@@ -1,8 +1,6 @@
 import { TextProcessor } from '../TextProcessor.js';
 import {Format} from '../format-container.js';
 
-
-
 describe('Format List',()=>{
     beforeEach(()=>{
         document.body.innerHTML = '<div></div>';
